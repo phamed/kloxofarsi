@@ -1,5 +1,5 @@
 # kloxofarsi
-![alt text](https://raw.githubusercontent.com/phamed/kloxofarsi/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/phamed/kloxofarsi/branch/path/to/user-logo.png)
 Kloxo farsi by hamed jamali
 
 ===================
